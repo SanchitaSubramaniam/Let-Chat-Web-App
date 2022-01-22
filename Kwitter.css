@@ -1,0 +1,15 @@
+body {
+    background-image:url(https://static.wixstatic.com/media/fe4848_5c60b06af5bc45c99a4e7a71a6d92e7e~mv2.gif);
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3 {
+    font-family: monospace;
+}
+
+#login_button {
+    background-color: lightblue;
+}
